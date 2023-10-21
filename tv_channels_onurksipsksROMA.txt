@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:-1,Euronews BG
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/482
+#EXTINF:-1,BG | The Voice
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/465
+#EXTINF:-1,BG | Roma TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/469
+#EXTINF:-1,BG | RING TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/467
+#EXTINF:-1,BG | Planeta
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/468
+#EXTINF:-1,BG | Nova Sport HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/470
+#EXTINF:-1,BG | Nova
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/471
+#EXTINF:-1,BG | Nat Geo Wild
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/460
+#EXTINF:-1,BG | Nat Geo
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/461
+#EXTINF:-1,BG | KinoNova
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/462
+#EXTINF:-1,BG | FEN TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/473
+#EXTINF:-1,BG | Diema TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/463
+#EXTINF:-1,BG | CITY MUSIC
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/477
+#EXTINF:-1,BG | BTV Cinema
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/478
+#EXTINF:-1,BG | BTV Action
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/479
+#EXTINF:-1,BG | BTV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/480
+#EXTINF:-1,BG | BNT 1
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/481
+#EXTINF:-1,BG | BG Music
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/464
+#EXTINF:-1,MAX Western HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/792
+#EXTINF:-1,MAX Vizyon HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/791
+#EXTINF:-1,MAX Vizyon 3 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/790
+#EXTINF:-1,MAX Vizyon 2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/789
+#EXTINF:-1,MAX Turk HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/788
+#EXTINF:-1,MAX Star Wars HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/787
+#EXTINF:-1,MAX HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/786
+#EXTINF:-1,MAX Kino Collection HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/785
+#EXTINF:-1,MAX Gold HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/784
+#EXTINF:-1,TR MAX Premier HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/783
+#EXTINF:-1,MAX Animasyon HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/782
+#EXTINF:-1,MAX Animasyon 2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/781
+#EXTINF:-1,MAX 007 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/779
+#EXTINF:-1,DE | MAX Premiere HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/808
+#EXTINF:-1,DE MAX KINO 4 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/809
+#EXTINF:-1,DE MAX KINO 5 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/810
+#EXTINF:-1,Max 4K UHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/902
+#EXTINF:-1,MAX Orjinal HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/806
+#EXTINF:-1,MAX Vizyon 4 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/807
+#EXTINF:-1,MAX Aksion HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/780
+#EXTINF:-1,MAX Aksiyon 2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/805
+#EXTINF:-1,NAT GEO WILD HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/750
+#EXTINF:-1,NAT GEO HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/751
+#EXTINF:-1,BBC EARTH
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/826
+#EXTINF:-1,Discovery Turbo Extra HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/777
+#EXTINF:-1,Discovery
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/753
+#EXTINF:-1,TR: MOVIESMART TURK FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/841
+#EXTINF:-1,TR: MOVIESMART FEST FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/831
+#EXTINF:-1,TR: DiziSmart PREMIUM FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/843
+#EXTINF:-1,Sinema Aile 2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17886
+#EXTINF:-1,Sinema Komedi 2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17888
+#EXTINF:-1,Sinema 1002 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17890
+#EXTINF:-1,Sinema 2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17891
+#EXTINF:-1,Sinema Aksiyon HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17892
+#EXTINF:-1,Sinema 1001 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17893
+#EXTINF:-1,Sinema Aksiyon 2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17894
+#EXTINF:-1,Sinema Aile HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17895
+#EXTINF:-1,SINEMA TV Aile 2
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17889
+#EXTINF:-1,Sinema Komedi HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17887
+#EXTINF:-1,EPIC Drama
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/918
+#EXTINF:-1,MAX Sport HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/881
+#EXTINF:-1,MAX Sport 2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/882
+#EXTINF:-1,Max Sport 3 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1081
+#EXTINF:-1,DE MAX SELECT HD 7
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/952
+#EXTINF:-1,DE MAX SELECT HD 6
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/951
+#EXTINF:-1,DE MAX SELECT HD 5
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/950
+#EXTINF:-1,DE MAX SELECT HD 4
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/949
+#EXTINF:-1,DE MAX SELECT HD 3
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/948
+#EXTINF:-1,DE MAX SELECT HD 2
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/947
+#EXTINF:-1,DE MAX SELECT HD 1
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/946
+#EXTINF:-1,DE MAX KINO COLLECTION
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/956
+#EXTINF:-1,DE MAX KINO 3
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/955
+#EXTINF:-1,DE MAX KINO 2
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/954
+#EXTINF:-1,DE MAX KINO
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/953
+#EXTINF:-1,GPU: ULKE TV HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/973
+#EXTINF:-1,GPU: TV8 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/970
+#EXTINF:-1,GPU: TV 8.5 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/969
+#EXTINF:-1,GPU: TRT HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/962
+#EXTINF:-1,GPU: TRT Haber HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/984
+#EXTINF:-1,GPU: Star TV HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/963
+#EXTINF:-1,GPU: SHOW TV HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/961
+#EXTINF:-1,GPU: Kanal D HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/964
+#EXTINF:-1,GPU: KANAL 7 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/960
+#EXTINF:-1,GPU: HABERTURK HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/977
+#EXTINF:-1,GPU: FOX HD Tr
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/987
+#EXTINF:-1,GPU: DMAX HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/985
+#EXTINF:-1,GPU: CNN TURK HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/978
+#EXTINF:-1,GPU: Bloomberg HT HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/967
+#EXTINF:-1,GPU: BEYAZ TV HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/968
+#EXTINF:-1,GPU: A Spor HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/976
+#EXTINF:-1,GPU: ATV HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/975
+#EXTINF:-1,GPU: A2 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/965
+#EXTINF:-1,GPU: A HABER HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/974
+#EXTINF:-1,GPU: 360tv HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/966
+#EXTINF:-1,Fox Crime HD +
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/995
+#EXTINF:-1,7/8 TV HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/996
+#EXTINF:-1,BTVLady HD +
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/997
+#EXTINF:-1,BTV Comedy HD +
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/999
+#EXTINF:-1,BTV Cinema HD +
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/998
+#EXTINF:-1,bTV HD +
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/993
+#EXTINF:-1,NOVA TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1017
+#EXTINF:-1,NOVA SPORT
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1019
+#EXTINF:-1,KINONOVA
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1070
+#EXTINF:-1,BG MUSIC
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1025
+#EXTINF:-1,DSTV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1026
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1042
+#EXTINF:-1,AXN
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1067
+#EXTINF:-1,MAX SPORT 3
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1074
+#EXTINF:-1,VIASAT TV 1000
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1056
+#EXTINF:-1, EuroNews BG
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1046
+#EXTINF:-1,TLC Balkans.
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1054
+#EXTINF:-1,TIANKOV ORIENT FOLK
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1058
+#EXTINF:-1,THE VOICE
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1027
+#EXTINF:-1,Sport + HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1073
+#EXTINF:-1,ROMA TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1034
+#EXTINF:-1,RING BG
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1055
+#EXTINF:-1,Planeta Folk
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1032
+#EXTINF:-1,Planeta
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1031
+#EXTINF:-1,NICKELODEON
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1018
+#EXTINF:-1,Nat Geo Wild HD.
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1043
+#EXTINF:-1,HIT MIX BG
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1030
+#EXTINF:-1,HBO 3
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1062
+#EXTINF:-1,HBO 2
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1061
+#EXTINF:-1,HBO
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1060
+#EXTINF:-1,FOX LIFE
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1022
+#EXTINF:-1,FOX CRIME
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1065
+#EXTINF:-1,FOX
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1021
+#EXTINF:-1,FOOD NETWORK HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1039
+#EXTINF:-1,FOLKLOR TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1033
+#EXTINF:-1,FILMBOX PLUS
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1066
+#EXTINF:-1,FAN TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1028
+#EXTINF:-1,CineBox
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1068
+#EXTINF:-1,BG
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1049
+#EXTINF:-1,Discovery Channel HD.
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1040
+#EXTINF:-1,Diema TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1023
+#EXTINF:-1,BG GAME 2
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1053
+#EXTINF:-1,BG Game 1 
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1052
+#EXTINF:-1,Diema Family.
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1024
+#EXTINF:-1,COMEDY PLUS
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1071
+#EXTINF:-1,CINEMAX 2
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1064
+#EXTINF:-1,CINEMAX
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1063
+#EXTINF:-1,CINEMA PLUS
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1069
+#EXTINF:-1,Bulgaria ON AIR
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1035
+#EXTINF:-1,BTV LADY
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1045
+#EXTINF:-1,bTV Comedy
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/799
+#EXTINF:-1,BTV CINEMA
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1016
+#EXTINF:-1,BTV ACTION
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1015
+#EXTINF:-1,BTV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1014
+#EXTINF:-1,BOX TV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1038
+#EXTINF:-1,BNT1
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1011
+#EXTINF:-1,BNT 4
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1013
+#EXTINF:-1,BNT 3 HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1010
+#EXTINF:-1,BNT 2
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1012
+#EXTINF:-1,BLOOMBERG
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1037
+#EXTINF:-1,BALKANIKA MTV
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1029
+#EXTINF:-1,B1B ACTION
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1059
+#EXTINF:-1,ANIMAL PLANET..
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1048
+#EXTINF:-1,AMC
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1020
+#EXTINF:-1,ACTION PLUS HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1072
+#EXTINF:-1,24KITCHEN
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1044
+#EXTINF:-1,TRT 1 HD  LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17497
+#EXTINF:-1,STAR TV HD  LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17500
+#EXTINF:-1,ATV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17505
+#EXTINF:-1,KANAL D HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17506
+#EXTINF:-1,SHOW TV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17509
+#EXTINF:-1,FOX TV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17512
+#EXTINF:-1,TV 8 HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17515
+#EXTINF:-1,TV 8.5 HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17518
+#EXTINF:-1,TEVE 2 HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17520
+#EXTINF:-1,A2 HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17522
+#EXTINF:-1,BEYAZ TV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17524
+#EXTINF:-1,KANAL 7 HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17526
+#EXTINF:-1,KANAL 7 EU LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17528
+#EXTINF:-1,360 TV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17529
+#EXTINF:-1,TV 100 HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17531
+#EXTINF:-1,TV 4 HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17533
+#EXTINF:-1,ATV EURO LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17534
+#EXTINF:-1,EURO STAR LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17535
+#EXTINF:-1,SHOW TURK LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17536
+#EXTINF:-1,EURO D LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17537
+#EXTINF:-1,TV8 INT LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17538
+#EXTINF:-1,SPORTS HABER HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17539
+#EXTINF:-1,A SPOR HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17540
+#EXTINF:-1,TRT SPOR HD  LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17542
+#EXTINF:-1,SPORSMART LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17548
+#EXTINF:-1,spor
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17550
+#EXTINF:-1,EUROSPORT LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17553
+#EXTINF:-1,FB TV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17557
+#EXTINF:-1,A HABER HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17562
+#EXTINF:-1,TRT HABER HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17564
+#EXTINF:-1,NTV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17566
+#EXTINF:-1,HABER TURK HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17568
+#EXTINF:-1,CNN TURK HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17570
+#EXTINF:-1,TGRT HABER HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17572
+#EXTINF:-1,TGRT HABER LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17573
+#EXTINF:-1,ULKE TV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17574
+#EXTINF:-1,24 TV HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17576
+#EXTINF:-1,TV NET HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17577
+#EXTINF:-1,HABER GLOBAL HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17578
+#EXTINF:-1,BLOOMBERG HT HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17581
+#EXTINF:-1,A PARA HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17582
+#EXTINF:-1,EKO TURK LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17583
+#EXTINF:-1,TELE 1 HD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17584
+#EXTINF:-1,HALK TV LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17585
+#EXTINF:-1,ULUSAL TV LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17586
+#EXTINF:-1,TRT BELGESEL LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17589
+#EXTINF:-1,TRT BELGESEL LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17590
+#EXTINF:-1,TRT 4K LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17591
+#EXTINF:-1,BEIN IZ HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17592
+#EXTINF:-1,BBC EARTH LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17593
+#EXTINF:-1,NAT GEO WILD FHD LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17595
+#EXTINF:-1,NAT GEO LOCAL
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17597
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17599
+#EXTINF:-1,DISCOVERY FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17601
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17603
+#EXTINF:-1,DMAX HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17608
+#EXTINF:-1,TLC HD TR
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17610
+#EXTINF:-1,VIASAT NATURE HISTORY FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17613
+#EXTINF:-1,OUTDOOR FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17618
+#EXTINF:-1,DOCUBOX FHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17619
+#EXTINF:-1,DE MAX 007 HD 
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1108
+#EXTINF:-1,DE MAX STAR WARS HD 
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/1109
+#EXTINF:-1,DE Max Select 4K UHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17632
+#EXTINF:-1,DE Max Select 2 4K UHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17633
+#EXTINF:-1,DE Max Bollywood HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17634
+#EXTINF:-1,DE Max Select 4K MIX UHD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17635
+#EXTINF:-1,DE MAX Plus HD
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17773
+#EXTINF:-1,TEST
+http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17897
